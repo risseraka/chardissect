@@ -1,0 +1,44 @@
+# Extracted from https://aclweb.org/anthology/W09-3410
+tag	label_chinese	label_english
+a	形容词	Adjective
+b	区别词	Non-predicate adjective
+c	连词	Conjunction
+d	副词	Adverb
+de	结构助词	Attributive
+e	叹词	Interjection
+g	语素字	Morpheme Word
+h	前缀词	Prefix
+i	成语,习用语	Idiom
+j	简略语	Abbreviation
+o	拟声词	Onomatopoeia
+k	后缀词	Suffix
+m	数词	Numeral
+ma	数量定词	Numeral Classifier
+mb	概数词	Approximate numeral
+n	普通名词	Noun
+nd	方位词	Directional locality
+np	专有名词	Proper noun
+npp	人名	Personal name
+nppx	人名中的姓	Chinese family name
+nppm	人名中的名	Chinese first name
+nppxj	日本人的姓	Japanese family name
+nppmj	日本人的名	Japanese first name
+nppxw	欧美式人名的姓	Western family name
+nppmw	欧美式人名的名	Western first name
+npl	地名	Place
+npo	组织名	Organization
+npfd	饮食物名	Drink and food
+ns	处所名	Space word
+nt	时间词	Time word
+nx	非汉字,字符	Numeric, character string
+p	介词	Preposition
+q	量词	Quantifier
+r	代词	Pronoun
+u	助词	Auxiliary
+v	普通动词	Verb
+v2	动词“有”	Verb “Have”
+v1	系动词“是”等	Auxiliary verb
+vt	趋向动词	Directional verb
+vw	能愿动词	Modal verb
+w	标点符号	Punctuation
+y	语气助词	Modal particle
